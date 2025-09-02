@@ -15,8 +15,8 @@ class NewsPage extends StatelessWidget {
           title: const Text('News'),
           bottom: const TabBar(
             tabs: [
-              Tab(text: 'Top Headlines'),
-              Tab(text: 'Bitcoin'),
+              Tab(text: 'Apple Headlines'),
+              Tab(text: 'Tesla Headlines'),
             ],
           ),
         ),
